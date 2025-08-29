@@ -1,0 +1,4 @@
+[16-Aug-2025 12:26:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/elitecod/spinvantage/core/app/Http/Controllers/Api/AuthorizationController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Http/Controllers/Api/AuthorizationController.php on line 11

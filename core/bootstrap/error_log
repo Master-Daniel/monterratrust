@@ -1,0 +1,12 @@
+[15-Aug-2025 10:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/elitecod/spinvantage/core/bootstrap/app.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/bootstrap/app.php on line 25
+[15-Aug-2025 16:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/elitecod/spinvantage/core/bootstrap/app.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/bootstrap/app.php on line 25
+[15-Aug-2025 16:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/elitecod/spinvantage/core/bootstrap/app.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/bootstrap/app.php on line 25

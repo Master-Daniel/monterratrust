@@ -1,0 +1,4 @@
+[16-Aug-2025 03:05:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/elitecod/spinvantage/core/app/Rules/FileTypeValidate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Rules/FileTypeValidate.php on line 7

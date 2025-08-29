@@ -1,0 +1,112 @@
+[15-Aug-2025 10:56:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/mail.php on line 17
+[15-Aug-2025 10:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/auth.php on line 17
+[15-Aug-2025 11:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/cache.php on line 18
+[15-Aug-2025 11:07:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/queue.php on line 16
+[15-Aug-2025 11:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/logging.php on line 21
+[15-Aug-2025 11:20:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/session.php on line 21
+[15-Aug-2025 11:31:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/services.php on line 18
+[15-Aug-2025 11:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/database.php on line 19
+[15-Aug-2025 15:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/filesystems.php on line 16
+[15-Aug-2025 16:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/services.php on line 18
+[15-Aug-2025 16:04:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/logging.php on line 21
+[15-Aug-2025 16:06:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/session.php on line 21
+[15-Aug-2025 16:08:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/queue.php on line 16
+[15-Aug-2025 16:09:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/mail.php on line 17
+[15-Aug-2025 16:10:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/cache.php on line 18
+[15-Aug-2025 16:11:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/auth.php on line 17
+[15-Aug-2025 16:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/database.php on line 19
+[15-Aug-2025 16:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/filesystems.php on line 16
+[15-Aug-2025 16:21:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/services.php on line 18
+[15-Aug-2025 16:22:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/cache.php on line 18
+[15-Aug-2025 16:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/logging.php on line 21
+[15-Aug-2025 16:24:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/database.php on line 19
+[15-Aug-2025 16:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/mail.php on line 17
+[15-Aug-2025 16:28:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/session.php on line 21
+[15-Aug-2025 16:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/auth.php on line 17
+[15-Aug-2025 16:30:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/queue.php on line 16
+[15-Aug-2025 16:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/filesystems.php on line 16
+[15-Aug-2025 20:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitecod/spinvantage/core/config/app.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/config/app.php on line 17

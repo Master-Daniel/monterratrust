@@ -1,0 +1,344 @@
+[15-Aug-2025 15:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Extension.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Extension.php on line 8
+[15-Aug-2025 15:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php on line 7
+[15-Aug-2025 15:33:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/QRcode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/QRcode.php on line 9
+[15-Aug-2025 16:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php on line 8
+[15-Aug-2025 17:08:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php on line 8
+[15-Aug-2025 17:08:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php on line 7
+[15-Aug-2025 17:27:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php on line 7
+[15-Aug-2025 17:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php on line 8
+[15-Aug-2025 17:47:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php on line 7
+[15-Aug-2025 17:51:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php on line 8
+[15-Aug-2025 17:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/QRcode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/QRcode.php on line 9
+[15-Aug-2025 17:55:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Extension.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Extension.php on line 8
+[15-Aug-2025 17:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php on line 7
+[15-Aug-2025 18:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php on line 8
+[15-Aug-2025 18:03:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php on line 8
+[15-Aug-2025 18:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php on line 7
+[15-Aug-2025 18:08:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Extension.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Extension.php on line 8
+[15-Aug-2025 18:09:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php on line 7
+[15-Aug-2025 18:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/QRcode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/QRcode.php on line 9
+[15-Aug-2025 18:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php on line 7
+[15-Aug-2025 18:17:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php on line 8
+[15-Aug-2025 18:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php on line 8
+[15-Aug-2025 18:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Extension.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Extension.php on line 8
+[15-Aug-2025 18:32:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/QRcode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/QRcode.php on line 9
+[15-Aug-2025 18:33:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php on line 8
+[15-Aug-2025 18:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php on line 8
+[15-Aug-2025 18:36:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php on line 7
+[15-Aug-2025 18:38:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php on line 7
+[15-Aug-2025 18:39:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php on line 7
+[15-Aug-2025 18:40:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php on line 8
+[15-Aug-2025 18:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/ApiPayment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/ApiPayment.php on line 8
+[15-Aug-2025 18:51:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php on line 8
+[15-Aug-2025 18:51:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php on line 7
+[15-Aug-2025 18:52:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php on line 8
+[15-Aug-2025 18:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/QRcode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/QRcode.php on line 9
+[15-Aug-2025 18:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Extension.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Extension.php on line 8
+[15-Aug-2025 19:00:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php on line 7
+[15-Aug-2025 19:03:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php on line 7
+[15-Aug-2025 19:03:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php on line 8
+[15-Aug-2025 19:12:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/MerchantResetPassword.php on line 8
+[15-Aug-2025 19:15:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/NotificationTemplate.php on line 7
+[15-Aug-2025 19:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/QRcode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/QRcode.php on line 9
+[15-Aug-2025 19:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Extension.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Extension.php on line 8
+[15-Aug-2025 19:21:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AgentPasswordReset.php on line 8
+[15-Aug-2025 19:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/ApiPayment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/ApiPayment.php on line 8
+[15-Aug-2025 19:27:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminNotification.php on line 7
+[15-Aug-2025 19:28:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/TransactionCharge.php on line 8
+[15-Aug-2025 19:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/AdminPasswordReset.php on line 7
+[15-Aug-2025 21:37:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/GatewayCurrency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/GatewayCurrency.php on line 8
+[15-Aug-2025 21:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/NotificationLog.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/NotificationLog.php on line 9
+[15-Aug-2025 22:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Wallet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Wallet.php on line 8
+[15-Aug-2025 22:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Voucher.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Voucher.php on line 10
+[15-Aug-2025 22:18:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Deposit.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Deposit.php on line 10
+[15-Aug-2025 23:03:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/ChargeLog.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/ChargeLog.php on line 9
+[15-Aug-2025 23:03:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Language.php on line 7
+[15-Aug-2025 23:04:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/UserLogin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/UserLogin.php on line 8
+[15-Aug-2025 23:05:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/UpdateLog.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/UpdateLog.php on line 7
+[15-Aug-2025 23:08:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Frontend.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Frontend.php on line 7
+[15-Aug-2025 23:09:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Currency.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Currency.php on line 9
+[15-Aug-2025 23:17:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/UserWithdrawMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/UserWithdrawMethod.php on line 9
+[15-Aug-2025 23:22:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/SupportAttachment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/SupportAttachment.php on line 8
+[15-Aug-2025 23:36:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/elitecod/spinvantage/core/app/Models/Merchant.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Merchant.php on line 12
+[15-Aug-2025 23:37:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Form.php on line 8
+[15-Aug-2025 23:43:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Page.php on line 7
+[15-Aug-2025 23:45:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/elitecod/spinvantage/core/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/User.php on line 12
+[16-Aug-2025 00:03:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Invoice.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Invoice.php on line 10
+[16-Aug-2025 00:06:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/CronJob.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/CronJob.php on line 8
+[16-Aug-2025 00:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Gateway.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Gateway.php on line 9
+[16-Aug-2025 00:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Withdrawal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Withdrawal.php on line 10
+[16-Aug-2025 00:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Subscriber.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Subscriber.php on line 7
+[16-Aug-2025 00:35:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/UserAction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/UserAction.php on line 8
+[16-Aug-2025 00:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/CronJobLog.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/CronJobLog.php on line 7
+[16-Aug-2025 01:03:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Transaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Transaction.php on line 9
+[16-Aug-2025 01:06:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/DeviceToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/DeviceToken.php on line 7
+[16-Aug-2025 01:10:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/InvoiceItem.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/InvoiceItem.php on line 8
+[16-Aug-2025 01:11:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/elitecod/spinvantage/core/app/Models/Agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Agent.php on line 12
+[16-Aug-2025 02:49:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/PasswordReset.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/PasswordReset.php on line 7
+[16-Aug-2025 02:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/CronSchedule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/CronSchedule.php on line 8
+[16-Aug-2025 02:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/SupportTicket.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/SupportTicket.php on line 9
+[16-Aug-2025 02:59:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/RequestMoney.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/RequestMoney.php on line 9
+[16-Aug-2025 03:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/ModuleSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/ModuleSetting.php on line 8
+[16-Aug-2025 04:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/Plugin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Plugin.php on line 8
+[16-Aug-2025 05:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/WithdrawMethod.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/WithdrawMethod.php on line 9
+[16-Aug-2025 05:25:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/GeneralSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/GeneralSetting.php on line 7
+[16-Aug-2025 05:25:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/elitecod/spinvantage/core/app/Models/SupportMessage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/SupportMessage.php on line 7
+[16-Aug-2025 09:08:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/elitecod/spinvantage/core/app/Models/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Models/Admin.php on line 8

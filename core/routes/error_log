@@ -1,0 +1,48 @@
+[15-Aug-2025 10:50:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/admin.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/admin.php on line 5
+[15-Aug-2025 10:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/agent.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/agent.php on line 11
+[15-Aug-2025 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/ipn.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/ipn.php on line 5
+[15-Aug-2025 10:52:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/web.php on line 5
+[15-Aug-2025 11:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/merchant.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/merchant.php on line 11
+[15-Aug-2025 11:20:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/elitecod/spinvantage/core/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/console.php on line 6
+[15-Aug-2025 15:50:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/admin.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/admin.php on line 5
+[15-Aug-2025 15:51:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/web.php on line 5
+[15-Aug-2025 15:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/ipn.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/ipn.php on line 5
+[15-Aug-2025 15:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/agent.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/agent.php on line 11
+[15-Aug-2025 15:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/elitecod/spinvantage/core/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/console.php on line 6
+[15-Aug-2025 16:00:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/elitecod/spinvantage/core/routes/merchant.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/routes/merchant.php on line 11

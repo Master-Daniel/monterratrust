@@ -1,0 +1,16 @@
+[15-Aug-2025 19:50:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php on line 21
+[16-Aug-2025 05:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php on line 21
+[16-Aug-2025 05:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php on line 21
+[16-Aug-2025 05:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elitecod/spinvantage/core/app/Providers/AppServiceProvider.php on line 21
